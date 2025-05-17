@@ -17,5 +17,55 @@
         "required": [],
         "idx": 2,
         "version": "15.61.1"
+    },
+    "hrms": {
+        "is_repo": true,
+        "resolution": {
+            "commit_hash": "7d249262306301f13b36fb3f105557f729cf838f",
+            "branch": "develop"
+        },
+        "required": [],
+        "idx": 3,
+        "version": "16.0.0-dev"
+    },
+    "india_compliance": {
+        "is_repo": true,
+        "resolution": {
+            "commit_hash": "e81d5bc6cc30e9aadadc19ccaf83af36dfbb0127",
+            "branch": "develop"
+        },
+        "required": [],
+        "idx": 4,
+        "version": "16.0.0-dev"
+    },
+    "translator": {
+        "is_repo": true,
+        "resolution": {
+            "commit_hash": "cf238286c90271f6f6d7b8604734f377f8d27da7",
+            "branch": "master"
+        },
+        "required": [],
+        "idx": 5,
+        "version": "0.0.1"
+    },
+    "poll": {
+        "is_repo": true,
+        "resolution": {
+            "commit_hash": "c8ee00d70814bf8f317fd1f858ad03b564ea3b6f",
+            "branch": "master"
+        },
+        "required": [],
+        "idx": 6,
+        "version": "0.0.1"
+    },
+    "chat": {
+        "is_repo": true,
+        "resolution": {
+            "commit_hash": "d6ff7fcec0626b3f217d11bf4376f86c4f374d50",
+            "branch": "main"
+        },
+        "required": [],
+        "idx": 7,
+        "version": "0.0.1"
     }
 }

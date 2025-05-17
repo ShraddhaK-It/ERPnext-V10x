@@ -1,2 +1,7 @@
 frappe
+hrms
+poll
 erpnext
+chat
+translator
+india_compliance
